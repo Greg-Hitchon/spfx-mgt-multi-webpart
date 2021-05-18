@@ -1,5 +1,5 @@
 # spfx-mgt-multi-webpart
-Repo of issue with mgt and multiple webparts. just made these completely seperate to fully test 2 webpart scenario.
+Repro of issue with mgt and multiple webparts. just made these completely seperate to fully test 2 webpart scenario.
 
 # Environment:
 * Node: 14.16.1
