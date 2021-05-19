@@ -5,7 +5,7 @@ Repro of issue with mgt and multiple webparts. just made these completely sepera
 * Node: 14.16.1
 * npm: 6.14.12
 * spfx: 1.12.1
-* mgt: preview 11d7c4e (2021-05-17) from [here](https://github.com/microsoftgraph/microsoft-graph-toolkit/actions/workflows/push.yml?query=branch%3Amain)
+* mgt: preview 43b849f (2021-05-19) from [here](https://github.com/microsoftgraph/microsoft-graph-toolkit/actions/workflows/push.yml?query=branch%3Amain)
 
 # Steps:
 1. git clone https://github.com/Greg-Hitchon/spfx-mgt-multi-webpart.git
